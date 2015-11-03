@@ -14,7 +14,7 @@ The Lost Plane Finder can be built with just under two dollars in pieces.
 |-------------------|------------------------|
 | Digispark         | 1.37 (AliExpress)      |
 | 5v Buzzer         | .87 (x10, AliExpress)  |
-| 2-4s Balance Plug | Free (local hobbyshop) |
+| 2-4s JST-XH Balance Connector | 0.99 [Example](http://www.readymaderc.com/store/index.php?main_page=product_info&cPath=11_66_68&products_id=518) |
 
 These will need to be wired up as seen in the diagram above. How to flash the Digispark can be found at [this site.](https://digistump.com/wiki/digispark/tutorials/connecting) If the alarm does not work for you, you may need to configure your *config.h* file as instructed.
 
